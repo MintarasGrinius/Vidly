@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import Like from "./common/like";
 import Table from "./common/table";
-import Tablebody from "./common/tableBody";
-import TableHeader from "./common/tableHeader";
 import { Link } from "react-router-dom";
 
 class MoviesTable extends Component {
